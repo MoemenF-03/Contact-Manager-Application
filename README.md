@@ -1,9 +1,6 @@
 # 📇 Contact Manager Application
-
+Academic Project :
 A desktop application for managing institutional contacts built with PyQt5. This application provides a complete contact management system with authentication, allowing users to add, modify, display, and delete contacts while ensuring data validation and security.
-
-![Login Screen](https://raw.githubusercontent.com/yourusername/contact-manager/main/screenshots/login.png)
-![Main Interface](https://raw.githubusercontent.com/yourusername/contact-manager/main/screenshots/main.png)
 
 ## ✨ Features
 
