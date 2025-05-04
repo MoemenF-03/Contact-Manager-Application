@@ -1,4 +1,10 @@
 # 📇 Contact Manager Application
+![Status](https://img.shields.io/badge/Status-Academic%20Project-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PyQt5](https://img.shields.io/badge/PyQt5-5.x-green)
+![CSV](https://img.shields.io/badge/Storage-CSV-yellow)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
+
 Academic Project :
 A desktop application for managing institutional contacts built with PyQt5. This application provides a complete contact management system with authentication, allowing users to add, modify, display, and delete contacts while ensuring data validation and security.
 
